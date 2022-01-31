@@ -1,1 +1,1 @@
-This repository is a starter portfolio that you can use to learn a little bit about communication using Markdown.
+This repository is a starter portfolio that you can use to learn a little bit about communication using Markdown.![IMG_20170101_112119357_HDR](https://user-images.githubusercontent.com/97906703/151750173-c4d16b8f-51f5-4818-8ae8-370a835eec26.jpg)
